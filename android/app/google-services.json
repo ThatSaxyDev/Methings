@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "496672300340",
+    "project_id": "methings-94db1",
+    "storage_bucket": "methings-94db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496672300340:android:e06d0c55eba9c43b7a9961",
+        "android_client_info": {
+          "package_name": "com.kiishi.methings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496672300340-u6l68vi2e9kbnn8nl7j72986g5eo7rqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiishi.methings",
+            "certificate_hash": "02f837d64f0927dc718535c63f0299b634c2e4f8"
+          }
+        },
+        {
+          "client_id": "496672300340-ku0554fjbhu6rr0b5lcm88djptt7tpl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFg0CdZIlwLzh5G_le0ekYUCLTterCj70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496672300340-ku0554fjbhu6rr0b5lcm88djptt7tpl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
